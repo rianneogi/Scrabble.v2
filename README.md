@@ -15,7 +15,7 @@ Implemented Features:
 To-Do Features:
 
 * Ability to play a Scrabble game vs the computer (AI)
-* Ability to change settings/options during the game such a switching off sound
+* Ability to change settings/options during the game such as switching off sound
 * Ability to save your game and load it later
 
 Possible Ideas for the future:
