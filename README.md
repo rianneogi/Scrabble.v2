@@ -2,7 +2,7 @@ Scrabble.v2
 ===========
 
 To run, you need to put SFML dll files in the same folder as the exe.  
-To compile, you will need to properly link all the required SFML header files.
+To compile, you will need to properly link and include all the required SFML files.
 
 Go here to download the SFML library: http://sfml-dev.org/download.php  
 Go here for the SFML documentation: http://sfml-dev.org/documentation/2.1/
